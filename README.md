@@ -1,3 +1,6 @@
+
+![readme_header](https://github.com/LuliBobo/LuliBobo/assets/99192323/51183170-5c9a-4846-9d1f-af84f9238519)
+
 # 💫 About Me:
 🪱 Doing Python mini-projects 
 
