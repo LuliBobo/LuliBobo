@@ -2,8 +2,7 @@
 
 Welcome to my GitHub! I'm currently focused on building useful AI-assisted tools, automating workflows, and experimenting with full-stack development using modern tech stacks.
 
-![readme_header](https://github.com/LuliBobo/LuliBobo/assets/99192323/51183170-5c9a-4846-9d1f-af84f9238519)
-
+![readme header](https://github.com/user-attachments/assets/50edc5d3-2d4a-4c03-9acd-943c7035caf7)
 ## 🧠 About Me
 
 - 🎯 Indie developer with a passion for privacy-focused tools
@@ -63,3 +62,6 @@ A modern web app that helps users clean up their downloads folder and protect th
 ## 🙌 Thanks for visiting!
 
 Feel free to explore my repos, follow, or reach out for collaboration!
+
+
+![readme_header](https://github.com/LuliBobo/LuliBobo/assets/99192323/51183170-5c9a-4846-9d1f-af84f9238519)
