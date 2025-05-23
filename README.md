@@ -4,7 +4,22 @@
 # 👉🏻 About Me:
 👋 I'm Boris – a tech enthusiast focused on automating workflows with Python and exploring TypeScript through full-stack projects. I'm currently diving deeper into AI-assisted coding and open-source collaboration.
 
-# ✅ Current Projects:
+📂 **Current Projects**
+
+🚀 **DropTidy – File Organization & AI Anonymization Tool**  
+A modern web app that helps users clean up their downloads folder and protect their privacy – all locally.
+
+- 🔍 **AI-powered face anonymization**: Automatically blur faces in images and videos
+- 🛡 **Metadata removal**: Clean EXIF and sensitive data from media files
+- 🗂 **Smart auto-sorting**: Organize files into folders using intelligent rules
+- 💻 Built with **Vite**, **React**, **Tailwind CSS**, and **TypeScript**
+- 🌙 Dark mode, mobile-friendly UI, and upcoming **Electron desktop version**
+- 🇬🇧🇸🇰 Multilingual support (EN / SK) in development
+
+🔧 Tech stack: React · TypeScript · Tailwind · Vite · shadcn/ui  
+🛠 Features in progress: AI face detection, manual blur control, cloud sync
+
+🔗 [Explore the project on GitHub »](https://github.com/LuliBobo/tidy-drop-ui)
 
 
 # 📱 Socials:
