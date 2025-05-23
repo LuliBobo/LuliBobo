@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm currently focused on building useful AI-assisted tools
 
 ### 🎯 **DropTidy – File Organization & AI Anonymization Tool**
 
-![DropTidy Banner](https://github.com/user-attachments/assets/7eac23c2-e525-4924-8771-293120cd0758)
+<img src="https://github.com/user-attachments/assets/7eac23c2-e525-4924-8771-293120cd0758" alt="DropTidy Banner" width="600"/>
 
 A modern web app that helps users clean up their downloads folder and protect their privacy – all locally.
 
