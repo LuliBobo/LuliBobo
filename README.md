@@ -1,37 +1,65 @@
-# WELCOME
+# 👋 Hi, I'm Boris – Indie Dev · Automation Enthusiast · AI Explorer
+
+Welcome to my GitHub! I'm currently focused on building useful AI-assisted tools, automating workflows, and experimenting with full-stack development using modern tech stacks.
+
 ![readme_header](https://github.com/LuliBobo/LuliBobo/assets/99192323/51183170-5c9a-4846-9d1f-af84f9238519)
 
-# 👉🏻 About Me:
-👋 I'm Boris – a tech enthusiast focused on automating workflows with Python and exploring TypeScript through full-stack projects. I'm currently diving deeper into AI-assisted coding and open-source collaboration.
+## 🧠 About Me
 
-📂 **Current Projects**
+- 🎯 Indie developer with a passion for privacy-focused tools
+- 💻 Automating digital workflows using Python, TypeScript, and n8n
+- 🧰 Building micro-SaaS projects with local-first principles
+- 📈 Exploring AI integrations in real-world applications
 
-🚀 **DropTidy – File Organization & AI Anonymization Tool**  
-A modern web app that helps users clean up their downloads folder and protect their privacy – all locally.
+---
 
-- 🔍 **AI-powered face anonymization**: Automatically blur faces in images and videos
-- 🛡 **Metadata removal**: Clean EXIF and sensitive data from media files
-- 🗂 **Smart auto-sorting**: Organize files into folders using intelligent rules
-- 💻 Built with **Vite**, **React**, **Tailwind CSS**, and **TypeScript**
-- 🌙 Dark mode, mobile-friendly UI, and upcoming **Electron desktop version**
-- 🇬🇧🇸🇰 Multilingual support (EN / SK) in development
+## 🛠 Tech Stack
 
-🔧 Tech stack: React · TypeScript · Tailwind · Vite · shadcn/ui  
-🛠 Features in progress: AI face detection, manual blur control, cloud sync
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-FE5E41?style=flat&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
 
-🔗 [Explore the project on GitHub »](https://github.com/LuliBobo/tidy-drop-ui)
-
+---
 
 # 📱 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/borisdračka) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuliBobo&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuliBobo&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuliBobo&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📂 Current Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🎯 **DropTidy – File Organization & AI Anonymization Tool**
+
+![DropTidy Banner](https://github.com/user-attachments/assets/7eac23c2-e525-4924-8771-293120cd0758)
+
+A modern web app that helps users clean up their downloads folder and protect their privacy – all locally.
+
+#### 🔹 Key Features
+- 🧠 AI-Powered Face Blurring
+- 🛡 Metadata Removal from Photos & Videos
+- 📁 Smart File Sorting Rules
+- 💻 Built with React, Vite, TypeScript, Tailwind CSS
+- 🌙 Fully Responsive with Dark Mode
+- 🔐 All processing is 100% local (no cloud required)
+
+📍 MVP: April 2025 · 🇬🇧🇸🇰 Multilingual (EN/SK) in progress  
+🔗 [GitHub Repo →](https://github.com/LuliBobo/tidy-drop-ui)
+
+---
+
+## 🚧 Upcoming
+
+- 🧠 Experimental AI Agent for Email Summarization
+- 📦 Electron version of DropTidy with full local processing
+- ⚙️ Web automation tools for solopreneurs
+
+---
+
+## 🙌 Thanks for visiting!
+
+Feel free to explore my repos, follow, or reach out for collaboration!
