@@ -2,7 +2,9 @@
 
 Welcome to my GitHub! I'm currently focused on building useful AI-assisted tools, automating workflows, and experimenting with full-stack development using modern tech stacks.
 
-![readme header](https://github.com/user-attachments/assets/50edc5d3-2d4a-4c03-9acd-943c7035caf7)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/50edc5d3-2d4a-4c03-9acd-943c7035caf7" alt="DropTidy Banner" width="500"/>
+</div>
 ## 🧠 About Me
 
 - 🎯 Indie developer with a passion for privacy-focused tools
@@ -34,7 +36,9 @@ Welcome to my GitHub! I'm currently focused on building useful AI-assisted tools
 
 ### 🎯 **DropTidy – File Organization & AI Anonymization Tool**
 
-<img src="https://github.com/user-attachments/assets/7eac23c2-e525-4924-8771-293120cd0758" alt="DropTidy Banner" width="600"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7eac23c2-e525-4924-8771-293120cd0758" alt="DropTidy Banner" width="600"/>
+</div>
 
 A modern web app that helps users clean up their downloads folder and protect their privacy – all locally.
 
