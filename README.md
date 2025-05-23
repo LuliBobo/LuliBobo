@@ -2,7 +2,9 @@
 ![readme_header](https://github.com/LuliBobo/LuliBobo/assets/99192323/51183170-5c9a-4846-9d1f-af84f9238519)
 
 # 👉🏻 About Me:
-🪱 Doing Python mini-projects 
+👋 I'm Boris – a tech enthusiast focused on automating workflows with Python and exploring TypeScript through full-stack projects. I'm currently diving deeper into AI-assisted coding and open-source collaboration.
+
+# ✅ Current Projects:
 
 
 # 📱 Socials:
