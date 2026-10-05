@@ -9,4 +9,4 @@ practical experiments in reporting, forecasting, controls and CFO decision-makin
 - [cfo-agents](https://github.com/LuliBobo/cfo-agents) — six small, read-only agents from the series. Sample data only.
 
 ## Elsewhere
-[LinkedIn](https://www.linkedin.com/in/borisdracka) · [X](https://x.com/BorisDracka) · [CFO Unfiltered newsletter](https://borisdracka.beehiiv.com)
+[LinkedIn](https://www.linkedin.com/in/borisdracka) · [X](https://x.com/BorisDracka)
